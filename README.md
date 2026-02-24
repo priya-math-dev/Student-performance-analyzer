@@ -21,6 +21,7 @@ M.Sc Mathematics Graduate
 Aspiring IT Professional
 
 ##📸Output Screenshot
-![Output](screenshot.png)
+![Output](screenshot(418).png)
+
 
 
