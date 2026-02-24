@@ -20,8 +20,12 @@ V.Priya
 M.Sc Mathematics Graduate
 Aspiring IT Professional
 
+##📸Output Scrrenshot
+![Outout](Screenshot(418).png)
+
 ##📸Output Screenshot
 ![Output](screenshot(418).png)
+
 
 
 
