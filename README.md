@@ -19,3 +19,8 @@ This is a Python _based data analysis project
 V.Priya
 M.Sc Mathematics Graduate
 Aspiring IT Professional
+
+##📸Output Screenshot
+![Output](screenshot.png)
+
+
