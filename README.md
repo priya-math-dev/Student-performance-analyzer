@@ -1,4 +1,4 @@
-# Student Performance Analyzer
+# student performance analyzer
 This is a Python _based data analysis project
 
 ## 📌Features
